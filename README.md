@@ -14,6 +14,7 @@ It would be a little difficult to install paramiko, because this package have a 
 and https://cryptography.io/en/latest/hazmat/bindings/ to have more information about this. On windows, it could be interesting to install environment like python(x,y) which include paramiko.
 
 To install Livestreamer on Debian/Ubuntu (on your Raspberry) : apt-get install livestreamer
+
 To install Livestreamer Python package: pip install livestreamer
 
 To install RaspLiveStation package : pip install rasplivestation
